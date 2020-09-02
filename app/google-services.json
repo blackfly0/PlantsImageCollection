@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901077246631",
+    "firebase_url": "https://plant-image-collection.firebaseio.com",
+    "project_id": "plant-image-collection",
+    "storage_bucket": "plant-image-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901077246631:android:aabb5d37672c4e4d447182",
+        "android_client_info": {
+          "package_name": "com.example.plantsimagecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901077246631-qf9r3qcirslo5q032c7bit9uggvvkvh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantsimagecollection",
+            "certificate_hash": "37633c31f527a36075d47a3fe1b55ed4520c1a53"
+          }
+        },
+        {
+          "client_id": "901077246631-h4hvg0qh3entcbk5msedu17pd6e4m6c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDIksvncXYUMet5Pg1fa2XrDc4-ueyUnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901077246631-h4hvg0qh3entcbk5msedu17pd6e4m6c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
